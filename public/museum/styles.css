@@ -323,15 +323,14 @@ button { font: inherit; cursor: pointer; }
   top: 0.8rem;
   inset-inline-end: 0.8rem;
   z-index: 2;
-  width: 2.3rem;
-  height: 2.3rem;
+  padding: 0.35rem 1rem;
   border-radius: 999px;
   border: 1px solid rgba(207, 167, 92, 0.6);
   background: rgba(14, 28, 48, 0.75);
   color: var(--gold-soft);
-  font-size: 1rem;
+  font-size: 0.88rem;
   font-weight: 600;
-  line-height: 1;
+  line-height: 1.4;
   transition: background 0.2s ease, color 0.2s ease;
 }
 
