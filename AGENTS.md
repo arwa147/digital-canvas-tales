@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- The Digital Museum site is plain HTML/CSS/JS under public/museum/ (user explicitly requested basic languages); src/routes/index.tsx only redirects / to /museum/index.html — keep it that way.
