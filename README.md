@@ -1,14 +1,52 @@
-# Welcome to your Lovable project
+# Digital Story Museum
+
+انشئ موقع ويب باستعمال اللغات الاساسية
+
+Html,Css,JS
+
+فكرة الموقع:
+
+متحف للصور،اجعله مثل فكرة المتحف الحقيقي وفيه صور مختلفه ولكل صوره معنى مختلف مثل (رسمات مشهورة او قصص تاريخية او اماكن مهمة او صوره تعبر عن مشاعر او فكرة)
+
+
+
+لغة الموقع ومظهره:
+
+اجعله باللغة الإنجليزية واجعل اللوان الموقع تدرجات البني والأزرق
+
+اجعل الواجهة بسيطة فيها اسم الموقع (The Digital Museum)
+
+وتحت اسم الموقع فكرة الموقع:
+
+
+
+The Museum of Visual Stories
+
+
+
+Where every image holds a story.
+
+
+
+خصائص الموقع:
+
+يكون مناسب لجميع انواع الاجهزة جوال،ايباد،لابتوب
+
+وسهل الاستعمال
+
+ويكون فيه زر للترجمة للغة العربية
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://digital-canvas-tales.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/1e55b453-44f3-5c17-a34e-2835253388e0).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +58,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
